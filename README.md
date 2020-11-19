@@ -17,3 +17,4 @@ The HSV color space tends to be more intuitive in terms of actually defining a p
 <b>Then we have the L*a*b* color space — this color space tries to mimic the methodology in which humans see and interpret color. This implies that the Euclidean distance between two arbitrary colors in the L*a*b* color space have actual perceptual meaning.</b>
 
 The addition of the perceptual meaning property makes the L*a*b* color space less intuitive and easy to understand than RGB or HSV, but because of the perceptual meaning property, we often use it in computer vision.
+** Positive values of angle will rotate an image counter-clockwise and negative values clockwise.
